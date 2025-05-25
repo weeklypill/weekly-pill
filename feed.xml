@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Weekly Pill</title>
+    <description>Nordic HTA and pharmaceuticals weekly brief</description>
+    <link>https://weeklypill.github.io/weekly-pill</link>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 May 2025 07:39:13 GMT</lastBuildDate>
+    <pubDate>Sun, 25 May 2025 07:39:13 GMT</pubDate>
+    <ttl>60</ttl>
+    <generator>The Weekly Pill Auto-Generator</generator>
+    <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
+    <itunes:summary>Nordic HTA and pharmaceuticals weekly brief</itunes:summary>
+    <itunes:subtitle>Weekly Nordic pharmaceutical industry news</itunes:subtitle>
+    <itunes:owner />
+    <itunes:owner>
+      <itunes:name>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:name>
+      <itunes:email>podcast@your-domain.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine" />
+    </itunes:category>
+    <itunes:category text="Business">
+      <itunes:category text="Industry News" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://weeklypill.github.io/weekly-pill/podcast-artwork.jpg</url>
+      <title>The Weekly Pill</title>
+      <link>https://weeklypill.github.io/weekly-pill</link>
+    </image>
+    <itunes:image href="https://weeklypill.github.io/weekly-pill/podcast-artwork.jpg" />
+    <item>
+      <title>The Weekly Pill - Week 21</title>
+      <description>Nordic pharmaceutical news for week 21 of 2025</description>
+      <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_21.mp3</link>
+      <guid>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_21.mp3</guid>
+      <pubDate>Sun, 25 May 2025 07:39:13 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_21.mp3" type="audio/mpeg" length="17736404" />
+      <itunes:title>The Weekly Pill - Week 21</itunes:title>
+      <itunes:summary>Nordic pharmaceutical news for week 21 of 2025</itunes:summary>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>15:30</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:season>2025</itunes:season>
+    </item>
+  </channel>
+</rss>
