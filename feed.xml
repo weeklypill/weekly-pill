@@ -5,16 +5,16 @@
     <description>Nordic HTA and pharmaceuticals weekly brief</description>
     <link>https://weeklypill.github.io/weekly-pill</link>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 17:43:18 GMT</lastBuildDate>
-    <pubDate>Mon, 16 Jun 2025 17:43:18 GMT</pubDate>
+    <lastBuildDate>Mon, 23 Jun 2025 19:03:49 GMT</lastBuildDate>
+    <pubDate>Mon, 23 Jun 2025 19:03:49 GMT</pubDate>
     <ttl>60</ttl>
     <generator>The Weekly Pill Auto-Generator</generator>
-    <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+    <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
     <itunes:summary>Nordic HTA and pharmaceuticals weekly brief</itunes:summary>
     <itunes:subtitle>Weekly Nordic pharmaceutical industry news</itunes:subtitle>
     <itunes:owner />
     <itunes:owner>
-      <itunes:name>Årsta Matttvätt &amp; AI</itunes:name>
+      <itunes:name>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:name>
       <itunes:email>podcast@your-domain.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Business">
@@ -32,6 +32,36 @@
     </image>
     <itunes:image href="https://raw.githubusercontent.com/weeklypill/weekly-pill/main/podcast-artwork.jpg" />
     <item>
+      <title>The Weekly Pill - Week 25</title>
+      <description>Nordic pharmaceutical news for week 25 of 2025</description>
+      <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3</link>
+      <guid>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3</guid>
+      <pubDate>Mon, 23 Jun 2025 19:03:49 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3" type="audio/mpeg" length="25474391" />
+      <itunes:title>The Weekly Pill - Week 25</itunes:title>
+      <itunes:summary>Nordic pharmaceutical news for week 25 of 2025</itunes:summary>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>28:57</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:season>2025</itunes:season>
+    </item>
+    <item>
+      <title>The Weekly Pill - Week 26</title>
+      <description>Nordic pharmaceutical news for week 26 of 2025</description>
+      <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_26.mp3</link>
+      <guid>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_26.mp3</guid>
+      <pubDate>Mon, 23 Jun 2025 18:58:10 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_26.mp3" type="audio/mpeg" length="25474391" />
+      <itunes:title>The Weekly Pill - Week 26</itunes:title>
+      <itunes:summary>Nordic pharmaceutical news for week 26 of 2025</itunes:summary>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>28:57</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:season>2025</itunes:season>
+    </item>
+    <item>
       <title>The Weekly Pill - Week 24</title>
       <description>Nordic pharmaceutical news for week 24 of 2025</description>
       <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_24.mp3</link>
@@ -40,10 +70,25 @@
       <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_24.mp3" type="audio/mpeg" length="27071003" />
       <itunes:title>The Weekly Pill - Week 24</itunes:title>
       <itunes:summary>Nordic pharmaceutical news for week 24 of 2025</itunes:summary>
-      <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>30:03</itunes:duration>
       <itunes:episode>24</itunes:episode>
+      <itunes:season>2025</itunes:season>
+    </item>
+    <item>
+      <title>The Weekly Pill - Week 25</title>
+      <description>Nordic pharmaceutical news for week 25 of 2025</description>
+      <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3</link>
+      <guid>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3</guid>
+      <pubDate>Mon, 16 Jun 2025 17:37:13 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_25.mp3" type="audio/mpeg" length="27071003" />
+      <itunes:title>The Weekly Pill - Week 25</itunes:title>
+      <itunes:summary>Nordic pharmaceutical news for week 25 of 2025</itunes:summary>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>30:21</itunes:duration>
+      <itunes:episode>25</itunes:episode>
       <itunes:season>2025</itunes:season>
     </item>
     <item>
@@ -55,7 +100,7 @@
       <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_23.mp3" type="audio/mpeg" length="17963660" />
       <itunes:title>The Weekly Pill - Week 23</itunes:title>
       <itunes:summary>Nordic pharmaceutical news for week 23 of 2025</itunes:summary>
-      <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>20:15</itunes:duration>
       <itunes:episode>23</itunes:episode>
@@ -70,7 +115,7 @@
       <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_22.mp3" type="audio/mpeg" length="36319957" />
       <itunes:title>The Weekly Pill - Week 22</itunes:title>
       <itunes:summary>Nordic pharmaceutical news for week 22 of 2025</itunes:summary>
-      <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>40:48</itunes:duration>
       <itunes:episode>22</itunes:episode>
@@ -85,7 +130,7 @@
       <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_21.mp3" type="audio/mpeg" length="33033141" />
       <itunes:title>The Weekly Pill - Week 21</itunes:title>
       <itunes:summary>Nordic pharmaceutical news for week 21 of 2025</itunes:summary>
-      <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+      <itunes:author>Ã…rsta MatttvÃ¤tt &amp; AI</itunes:author>
       <itunes:explicit>false</itunes:explicit>
       <itunes:duration>36:54</itunes:duration>
       <itunes:episode>21</itunes:episode>
