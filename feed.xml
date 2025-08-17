@@ -5,8 +5,8 @@
     <description>Nordic HTA and pharmaceuticals weekly brief</description>
     <link>https://weeklypill.github.io/weekly-pill</link>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Aug 2025 16:34:23 GMT</lastBuildDate>
-    <pubDate>Sun, 10 Aug 2025 16:34:23 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Aug 2025 09:30:45 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Aug 2025 09:30:45 GMT</pubDate>
     <ttl>60</ttl>
     <generator>The Weekly Pill Auto-Generator</generator>
     <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
@@ -31,6 +31,21 @@
       <link>https://weeklypill.github.io/weekly-pill</link>
     </image>
     <itunes:image href="https://raw.githubusercontent.com/weeklypill/weekly-pill/main/podcast-artwork.jpg" />
+    <item>
+      <title>The Weekly Pill - Week 33</title>
+      <description>Nordic pharmaceutical news for week 33 of 2025</description>
+      <link>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_33.mp3</link>
+      <guid>https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_33.mp3</guid>
+      <pubDate>Sun, 17 Aug 2025 09:30:45 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/weekly-pill-episodes/episodes/2025/thePill_2025_33.mp3" type="audio/mpeg" length="24953738" />
+      <itunes:title>The Weekly Pill - Week 33</itunes:title>
+      <itunes:summary>Nordic pharmaceutical news for week 33 of 2025</itunes:summary>
+      <itunes:author>Årsta Matttvätt &amp; AI</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:duration>27:52</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:season>2025</itunes:season>
+    </item>
     <item>
       <title>The Weekly Pill - Week 32</title>
       <description>Nordic pharmaceutical news for week 32 of 2025</description>
